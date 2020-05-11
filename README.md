@@ -4,7 +4,7 @@ Encryption script for Codeigniter 3.11 and PHP> = 7.0
 
 How to use:
 
-1 - Copy or paste this file into the Library folder in your CI;
+1 - Copy or paste this file into the Libraries folder in your CI;
 
 2 - Load the library: $this->load->library('MY_Encrypt');
 
